@@ -1,0 +1,14 @@
+C:\Users\Admin\RiderProjects\ApplicationProgramming\ApplicationProgramming\bin\Debug\net8.0\ApplicationProgramming.exe
+C:\Users\Admin\RiderProjects\ApplicationProgramming\ApplicationProgramming\bin\Debug\net8.0\ApplicationProgramming.deps.json
+C:\Users\Admin\RiderProjects\ApplicationProgramming\ApplicationProgramming\bin\Debug\net8.0\ApplicationProgramming.runtimeconfig.json
+C:\Users\Admin\RiderProjects\ApplicationProgramming\ApplicationProgramming\bin\Debug\net8.0\ApplicationProgramming.dll
+C:\Users\Admin\RiderProjects\ApplicationProgramming\ApplicationProgramming\bin\Debug\net8.0\ApplicationProgramming.pdb
+C:\Users\Admin\RiderProjects\ApplicationProgramming\ApplicationProgramming\obj\Debug\net8.0\ApplicationProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\ApplicationProgramming\ApplicationProgramming\obj\Debug\net8.0\ApplicationProgramming.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\ApplicationProgramming\ApplicationProgramming\obj\Debug\net8.0\ApplicationProgramming.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\ApplicationProgramming\ApplicationProgramming\obj\Debug\net8.0\ApplicationProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\ApplicationProgramming\ApplicationProgramming\obj\Debug\net8.0\ApplicationProgramming.dll
+C:\Users\Admin\RiderProjects\ApplicationProgramming\ApplicationProgramming\obj\Debug\net8.0\refint\ApplicationProgramming.dll
+C:\Users\Admin\RiderProjects\ApplicationProgramming\ApplicationProgramming\obj\Debug\net8.0\ApplicationProgramming.pdb
+C:\Users\Admin\RiderProjects\ApplicationProgramming\ApplicationProgramming\obj\Debug\net8.0\ApplicationProgramming.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\ApplicationProgramming\ApplicationProgramming\obj\Debug\net8.0\ref\ApplicationProgramming.dll
